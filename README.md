@@ -7,8 +7,6 @@ i hope there will be more and more classmates use latex and make our template mo
 
 most of the template need many knowladge of latex . it is difficule to use for the new people who want to use latex.
 
-this template uses ctexart ,do not write macro package of my self.
-
 it can be use in simple way if you know little knowledge of latex.
 
 Download nwnu.zip,and you can use it.If you have any question ,please connect with me.
